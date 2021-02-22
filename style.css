@@ -1,0 +1,31 @@
+html,body {
+    padding: 10%;
+    background: #187878;
+  }
+img{
+    vertical-align: middle;
+    width: auto;
+    height: auto;
+    border-radius: 25px;
+}
+
+h1{
+font-size:8vw;
+border-radius: 25px;
+background: #509B9B;
+}
+
+h2{
+    border-radius: 25px;
+    background: #2F8585; 
+}
+
+p{
+    border-radius: 25px;
+    background: #0B6060; 
+}
+
+h4{
+    border-radius: 25px;
+    background: #004848; 
+}
